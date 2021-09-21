@@ -1,0 +1,3 @@
+welcome: "Welcome to Mortgage Calculator!  Please enter your name: "
+valid_name: "That is not a valid name, please try again: "
+valid_number: "That is not a valid number, please try again: "
